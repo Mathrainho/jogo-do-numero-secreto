@@ -69,4 +69,3 @@ function limparCampo() {
 }
 
 // filter, reduce e map emum array retornar esse array e arrow function
-
